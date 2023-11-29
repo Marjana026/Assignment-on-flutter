@@ -1,3 +1,4 @@
 # Assignment-on-flutter
 This is a flutter assignment
-author Marjana Salauddin
+<br>
+author <b> Marjana Salauddin </b>
